@@ -1,6 +1,4 @@
 # Test 2
 
 test
-changed branch 2
-
-new
+changed
